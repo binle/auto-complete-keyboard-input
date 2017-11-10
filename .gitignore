@@ -1,0 +1,7 @@
+node_modules/*
+__tests__/*
+package-lock.json
+ios/build*
+ios/build/*
+android/build*
+android/build/*
